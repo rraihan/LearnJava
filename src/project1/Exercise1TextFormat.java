@@ -7,7 +7,6 @@ package project1;
 		 */
 public class Exercise1TextFormat {
 	
-
 			public static void main(String[] args) {
 				System.out.println("Deshi Halal Resturant");
 				System.out.println("Hours:\t Mon\t Fri,\t9am-9pm\n");
