@@ -5,7 +5,7 @@ public class Exercise5If {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int result =661;
+		int result =659;
 		
 		if 
 		(result >= 660 || result == 660) {
